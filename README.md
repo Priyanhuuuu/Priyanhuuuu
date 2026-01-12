@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Priyanshu Pal</h1>
+<h3 align="center">Frontend Developer</h3>
+
+---
+
+## 🚀 About Me
+I’m a passionate **Frontend Developer** who loves building clean, modern, and responsive web applications.  
+Focused on writing clean code, improving UI/UX, and continuously learning new technologies.
+
+- 🌱 I’m currently learning **React, API Integration, Tailwind CSS**
+- 💼 Open to Frontend Developer roles & freelance projects  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, UI Design**
+- 📫 Reach me at: **priyanshupal3829@gmail.com**
+- ⚡ Fun fact: I turn **ideas into beautiful interfaces**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_priyanshu_pal_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshupal3829@gmail.com) 
